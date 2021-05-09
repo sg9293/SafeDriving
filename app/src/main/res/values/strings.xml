@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SafeDriving</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_map__to">map_To</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="server_clientid">691357975273-0knj6qhdl4jbpfeq8m1o489prgu7jkn7.apps.googleusercontent.com</string>
+    <!--    <string name="server_clientid">1024348764943-hmj411lblbb7peni7qirv2hq97uld636.apps.googleusercontent.com</string>-->
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="red_wine_image">Red Wine Image</string>
+    <string name="white_wine_image">White Wine Image</string>
+    <string name="rose_wine_image">Rose Wine Image</string>
+    <string name="sparkling_wine_image">Sparkling Wine Image</string>
+</resources>

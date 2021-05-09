@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1024348764943",
+    "project_id": "drivesafe-929300",
+    "storage_bucket": "drivesafe-929300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024348764943:android:69fefe2b696dcdec0cdc7a",
+        "android_client_info": {
+          "package_name": "com.example.safedriving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024348764943-4ipvrl9l7cl6q86rbos4rrv53cbrm8fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safedriving",
+            "certificate_hash": "fc0634cfc8b2efb6325fb4e456603621df9eb04e"
+          }
+        },
+        {
+          "client_id": "1024348764943-spfm20ijpmcrbnbt9j73dg8ibkrohou2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuoBiVdUpBNdY3P2M1dBicYpRM6Epm-NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024348764943-aifvnvst0ms30ohv1t1qjr4stut90i86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024348764943:android:307e0d234071a5ea0cdc7a",
+        "android_client_info": {
+          "package_name": "com.example.uberlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024348764943-spfm20ijpmcrbnbt9j73dg8ibkrohou2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuoBiVdUpBNdY3P2M1dBicYpRM6Epm-NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024348764943-aifvnvst0ms30ohv1t1qjr4stut90i86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
